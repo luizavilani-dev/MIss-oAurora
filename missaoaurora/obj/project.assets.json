@@ -8,19 +8,19 @@
     "net10.0-windows7.0": []
   },
   "packageFolders": {
-    "C:\\Users\\ra2557029\\.nuget\\packages\\": {}
+    "C:\\Users\\proddyt\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\ra2557029\\Desktop\\missao\\missaoaurora\\missaoaurora\\missaoaurora.csproj",
+      "projectUniqueName": "C:\\Users\\proddyt\\Desktop\\Atividade 1\\MIss-oAurora\\missaoaurora\\missaoaurora.csproj",
       "projectName": "missaoaurora",
-      "projectPath": "C:\\Users\\ra2557029\\Desktop\\missao\\missaoaurora\\missaoaurora\\missaoaurora.csproj",
-      "packagesPath": "C:\\Users\\ra2557029\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\ra2557029\\Desktop\\missao\\missaoaurora\\missaoaurora\\obj\\",
+      "projectPath": "C:\\Users\\proddyt\\Desktop\\Atividade 1\\MIss-oAurora\\missaoaurora\\missaoaurora.csproj",
+      "packagesPath": "C:\\Users\\proddyt\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\proddyt\\Desktop\\Atividade 1\\MIss-oAurora\\missaoaurora\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\ra2557029\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\proddyt\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [

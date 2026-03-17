@@ -1,0 +1,17 @@
+C:\Users\proddyt\Desktop\Atividade 1\MIss-oAurora\missaoaurora\bin\Debug\net10.0-windows\missaoaurora.exe
+C:\Users\proddyt\Desktop\Atividade 1\MIss-oAurora\missaoaurora\bin\Debug\net10.0-windows\missaoaurora.deps.json
+C:\Users\proddyt\Desktop\Atividade 1\MIss-oAurora\missaoaurora\bin\Debug\net10.0-windows\missaoaurora.runtimeconfig.json
+C:\Users\proddyt\Desktop\Atividade 1\MIss-oAurora\missaoaurora\bin\Debug\net10.0-windows\missaoaurora.dll
+C:\Users\proddyt\Desktop\Atividade 1\MIss-oAurora\missaoaurora\bin\Debug\net10.0-windows\missaoaurora.pdb
+C:\Users\proddyt\Desktop\Atividade 1\MIss-oAurora\missaoaurora\obj\Debug\net10.0-windows\missaoaurora.Form1.resources
+C:\Users\proddyt\Desktop\Atividade 1\MIss-oAurora\missaoaurora\obj\Debug\net10.0-windows\missaoaurora.csproj.GenerateResource.cache
+C:\Users\proddyt\Desktop\Atividade 1\MIss-oAurora\missaoaurora\obj\Debug\net10.0-windows\missaoaurora.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\proddyt\Desktop\Atividade 1\MIss-oAurora\missaoaurora\obj\Debug\net10.0-windows\missaoaurora.AssemblyInfoInputs.cache
+C:\Users\proddyt\Desktop\Atividade 1\MIss-oAurora\missaoaurora\obj\Debug\net10.0-windows\missaoaurora.AssemblyInfo.cs
+C:\Users\proddyt\Desktop\Atividade 1\MIss-oAurora\missaoaurora\obj\Debug\net10.0-windows\missaoaurora.csproj.CoreCompileInputs.cache
+C:\Users\proddyt\Desktop\Atividade 1\MIss-oAurora\missaoaurora\obj\Debug\net10.0-windows\missaoaurora.sourcelink.json
+C:\Users\proddyt\Desktop\Atividade 1\MIss-oAurora\missaoaurora\obj\Debug\net10.0-windows\missaoaurora.dll
+C:\Users\proddyt\Desktop\Atividade 1\MIss-oAurora\missaoaurora\obj\Debug\net10.0-windows\refint\missaoaurora.dll
+C:\Users\proddyt\Desktop\Atividade 1\MIss-oAurora\missaoaurora\obj\Debug\net10.0-windows\missaoaurora.pdb
+C:\Users\proddyt\Desktop\Atividade 1\MIss-oAurora\missaoaurora\obj\Debug\net10.0-windows\missaoaurora.genruntimeconfig.cache
+C:\Users\proddyt\Desktop\Atividade 1\MIss-oAurora\missaoaurora\obj\Debug\net10.0-windows\ref\missaoaurora.dll
