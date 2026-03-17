@@ -29,17 +29,36 @@
         private void InitializeComponent()
         {
             label1 = new Label();
+            labPorcentagem = new Label();
+            trackOxigenio = new TrackBar();
+            ((System.ComponentModel.ISupportInitialize)trackOxigenio).BeginInit();
             SuspendLayout();
             // 
             // label1
             // 
             label1.AutoSize = true;
             label1.Font = new Font("Segoe UI", 20.25F, FontStyle.Bold, GraphicsUnit.Point, 0);
-            label1.Location = new Point(206, 202);
+            label1.Location = new Point(149, 9);
             label1.Name = "label1";
             label1.Size = new Size(399, 37);
             label1.TabIndex = 0;
             label1.Text = "SISTEMA DE BORDO-AURORA";
+            // 
+            // labPorcentagem
+            // 
+            labPorcentagem.AutoSize = true;
+            labPorcentagem.Location = new Point(404, 179);
+            labPorcentagem.Name = "labPorcentagem";
+            labPorcentagem.Size = new Size(0, 15);
+            labPorcentagem.TabIndex = 1;
+            // 
+            // trackOxigenio
+            // 
+            trackOxigenio.Location = new Point(97, 180);
+            trackOxigenio.Name = "trackOxigenio";
+            trackOxigenio.Size = new Size(218, 45);
+            trackOxigenio.TabIndex = 2;
+            trackOxigenio.Scroll += trackOxigenio_Scroll;
             // 
             // Form1
             // 
@@ -47,9 +66,13 @@
             AutoScaleMode = AutoScaleMode.Font;
             BackColor = SystemColors.ActiveCaption;
             ClientSize = new Size(800, 450);
+            Controls.Add(trackOxigenio);
+            Controls.Add(labPorcentagem);
             Controls.Add(label1);
             Name = "Form1";
             Text = "Form1";
+            Load += Form1_Load;
+            ((System.ComponentModel.ISupportInitialize)trackOxigenio).EndInit();
             ResumeLayout(false);
             PerformLayout();
         }
@@ -57,5 +80,7 @@
         #endregion
 
         private Label label1;
+        private Label labPorcentagem;
+        private TrackBar trackOxigenio;
     }
 }
