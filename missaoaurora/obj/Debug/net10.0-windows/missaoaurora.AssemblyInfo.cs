@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("missaoaurora")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a55c7c16d6475c60170b3721a67fe61aab65ccb8")]
 [assembly: System.Reflection.AssemblyProductAttribute("missaoaurora")]
 [assembly: System.Reflection.AssemblyTitleAttribute("missaoaurora")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
