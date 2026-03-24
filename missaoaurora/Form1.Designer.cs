@@ -29,22 +29,33 @@
         private void InitializeComponent()
         {
             label1 = new Label();
+<<<<<<< HEAD
             numPotencia = new NumericUpDown();
             btAceletar = new Button();
             labValue = new Label();
             ((System.ComponentModel.ISupportInitialize)numPotencia).BeginInit();
+=======
+            labPorcentagem = new Label();
+            trackOxigenio = new TrackBar();
+            ((System.ComponentModel.ISupportInitialize)trackOxigenio).BeginInit();
+>>>>>>> origin/dev-suporte
             SuspendLayout();
             // 
             // label1
             // 
             label1.AutoSize = true;
             label1.Font = new Font("Segoe UI", 20.25F, FontStyle.Bold, GraphicsUnit.Point, 0);
+<<<<<<< HEAD
             label1.Location = new Point(175, 32);
+=======
+            label1.Location = new Point(149, 9);
+>>>>>>> origin/dev-suporte
             label1.Name = "label1";
             label1.Size = new Size(399, 37);
             label1.TabIndex = 0;
             label1.Text = "SISTEMA DE BORDO-AURORA";
             // 
+<<<<<<< HEAD
             // numPotencia
             // 
             numPotencia.Location = new Point(118, 238);
@@ -71,6 +82,23 @@
             labValue.Size = new Size(38, 15);
             labValue.TabIndex = 3;
             labValue.Text = "label2";
+=======
+            // labPorcentagem
+            // 
+            labPorcentagem.AutoSize = true;
+            labPorcentagem.Location = new Point(404, 179);
+            labPorcentagem.Name = "labPorcentagem";
+            labPorcentagem.Size = new Size(0, 15);
+            labPorcentagem.TabIndex = 1;
+            // 
+            // trackOxigenio
+            // 
+            trackOxigenio.Location = new Point(97, 180);
+            trackOxigenio.Name = "trackOxigenio";
+            trackOxigenio.Size = new Size(218, 45);
+            trackOxigenio.TabIndex = 2;
+            trackOxigenio.Scroll += trackOxigenio_Scroll;
+>>>>>>> origin/dev-suporte
             // 
             // Form1
             // 
@@ -78,14 +106,23 @@
             AutoScaleMode = AutoScaleMode.Font;
             BackColor = SystemColors.ActiveCaption;
             ClientSize = new Size(800, 450);
+<<<<<<< HEAD
             Controls.Add(labValue);
             Controls.Add(btAceletar);
             Controls.Add(numPotencia);
+=======
+            Controls.Add(trackOxigenio);
+            Controls.Add(labPorcentagem);
+>>>>>>> origin/dev-suporte
             Controls.Add(label1);
             Name = "Form1";
             Text = "Form1";
             Load += Form1_Load;
+<<<<<<< HEAD
             ((System.ComponentModel.ISupportInitialize)numPotencia).EndInit();
+=======
+            ((System.ComponentModel.ISupportInitialize)trackOxigenio).EndInit();
+>>>>>>> origin/dev-suporte
             ResumeLayout(false);
             PerformLayout();
         }
@@ -93,8 +130,13 @@
         #endregion
 
         private Label label1;
+<<<<<<< HEAD
         private NumericUpDown numPotencia;
         private Button btAceletar;
         private Label labValue;
+=======
+        private Label labPorcentagem;
+        private TrackBar trackOxigenio;
+>>>>>>> origin/dev-suporte
     }
 }
